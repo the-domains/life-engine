@@ -1,0 +1,28 @@
+name: Life Engine
+favicon: null
+layout_spectrum: 0.360077787656337
+typography_spectrum: 0.7446693817619234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2620409925002605
+  lightness: 0.44965547951869667
+  saturation: 0.45435352227650583
+  rhythmicContrast: 0.38440847559832036
+purpose: []
